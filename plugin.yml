@@ -13,7 +13,7 @@ mcpe-protocol:
 - 407
 - 428
 - 431
-
+website: https://github.com/DanteDEVS/slapperFIX
 commands:
   slapper:
     description: Create a Slapper fix NPC, or edit an existing one!
